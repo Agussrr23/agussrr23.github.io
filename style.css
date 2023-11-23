@@ -23,6 +23,7 @@ h1 {
     height: 100%;
     float: left;
 }
+
 #detalle{
     background: #FF416C;
     /* Con estas 3 lineas vamos a hacer que los divs queden lado a lado */
