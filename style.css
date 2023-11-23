@@ -16,3 +16,18 @@ h1 {
     inset: 0;
     margin: auto;
 }
+#calculadora{
+    background: white;
+    /* Con estas 3 lineas vamos a hacer que los divs queden lado a lado */
+    width: 50%;
+    height: 100%;
+    float: left;
+}
+#detalle{
+    background: #FF416C;
+    /* Con estas 3 lineas vamos a hacer que los divs queden lado a lado */
+    width: 50%;
+    height: 100%;
+    float: left;
+    color: #f6f5f7;
+}
