@@ -7,3 +7,12 @@ h1 {
     font-family: 'Montserrat', sans-serif;
     color: #3E363F;
 }
+#contendor¨{
+    width: 900px;
+    height: 500px;
+    text-align: center;
+    /* Estas 3 lineas se encargan de centrar el div vertical y horizontalmente */
+    position: absolute;
+    inset: 0;
+    margin: auto;
+}
