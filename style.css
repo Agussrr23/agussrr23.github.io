@@ -1,7 +1,7 @@
 h1 {
     color: blue;
-  }@import url('https://fonts.googleapis.com/css?family=Montserrat:400,800');
-
+  }
+  @import url('https://fonts.googleapis.com/css?family=Montserrat:400,800');
   body{
       font-family: 'Montserrat', sans-serif;
   }
